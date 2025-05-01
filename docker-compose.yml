@@ -4,7 +4,7 @@ services:
     build: .
     image: frontened:v1 
     ports:
-      - "5172:5173" 
+      - "4001:4001" 
     volumes:
       - .:/app 
     environment:
