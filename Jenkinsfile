@@ -20,7 +20,7 @@ pipeline {
                 script {
                     // Build the Docker image using Docker Compose
                     echo 'Building Docker image...'
-                    sh 'docker-compose -f $DOCKER_COMPOSE_PATH build'
+                    bat 'docker-compose -f %DOCKER_COMPOSE_PATH% build'
                 }
             }
         }
@@ -30,7 +30,7 @@ pipeline {
                 script {
                     // Run the services using Docker Compose
                     echo 'Starting services using Docker Compose...'
-                    sh 'docker-compose -f $DOCKER_COMPOSE_PATH up -d'
+                    bat 'docker-compose -f %DOCKER_COMPOSE_PATH% up -d'
                 }
             }
         }
@@ -50,7 +50,7 @@ pipeline {
                 script {
                     // Shut down the Docker containers once tests or deployment are complete
                     echo 'Stopping Docker containers...'
-                    sh 'docker-compose -f $DOCKER_COMPOSE_PATH down'
+                    bat 'docker-compose -f %DOCKER_COMPOSE_PATH% down'
                 }
             }
         }
@@ -60,7 +60,7 @@ pipeline {
                 script {
                     // Optionally, clean up unused Docker images and volumes
                     echo 'Cleaning up Docker images...'
-                    sh 'docker system prune -f'
+                    bat 'docker system prune -f'
                 }
             }
         }
