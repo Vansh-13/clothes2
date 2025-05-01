@@ -1,0 +1,24 @@
+version: '3'
+services:
+  frontend:
+    build: .
+    image: frontened:v1 
+    ports:
+      - "5172:5173" 
+    volumes:
+      - .:/app 
+    environment:
+      - NODE_ENV=development
+    restart: always
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 10s
+        max_attempts: 3
+        window: 30s
+    networks:
+      - frontend-network
+
+networks:
+  frontend-network:
+    driver: bridge

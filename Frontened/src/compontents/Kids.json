@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Kids' T-shirt",
+        "category": "Kids' Clothing",
+        "title": "Fun cotton t-shirt",
+        "price": 249.99,
+        "rating": { "rate": 4.6, "count": 30 },
+        "image": "https://assets.ajio.com/medias/sys_master/root/20231107/Me6p/654a5896ddf779151975d61a/-473Wx593H-464620350-multi-MODEL.jpg",
+        "description": "This playful cotton t-shirt is perfect for kids. Soft, breathable fabric for all-day comfort in various fun designs."
+    },
+    {
+        "id": 2,
+        "name": "Kids' Hoodie",
+        "category": "Kids' Clothing",
+        "title": "Cozy fleece hoodie",
+        "price": 799.99,
+        "rating": { "rate": 4.8, "count": 40 },
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8a_q4PGOCW_2uL6SGxLi2c42fh_1wtY4HKQ&s",
+        "description": "A cozy fleece hoodie to keep your little one warm and comfortable. Perfect for chilly days, with a playful design."
+    },
+    {
+        "id": 3,
+        "name": "Kids' Sneakers",
+        "category": "Kids' Footwear",
+        "title": "Comfortable sneakers for active kids",
+        "price": 1499.99,
+        "rating": { "rate": 4.4, "count": 50 },
+        "image": "https://www.jiomart.com/images/product/original/rvlsvp4r2t/amaezo-boys-girls-kids-sneakers-product-images-rvlsvp4r2t-1-202302250617.jpg?im=Resize=(500,630)",
+        "description": "These kids' sneakers are designed for active play. Lightweight and durable, they offer comfort and support for running and jumping."
+    },
+    {
+        "id": 4,
+        "name": "Kids' Jeans",
+        "category": "Kids' Clothing",
+        "title": "Comfortable denim jeans",
+        "price": 599.99,
+        "rating": { "rate": 4.5, "count": 30 },
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/modern-4-colors-kids-jeans-pants-2219583140-iwf3dfb2.png",
+        "description": "These denim jeans are perfect for playtime or casual outings. Soft and durable, with a comfortable fit for kids of all ages."
+    },
+    {
+        "id": 5,
+        "name": "Kids' Dress",
+        "category": "Kids' Clothing",
+        "title": "Pretty floral dress",
+        "price": 799.99,
+        "rating": { "rate": 4.7, "count": 35 },
+        "image": "https://www.kidsbee.in/wp-content/uploads/2023/06/kids-birthday-frock-party-wear.jpg",
+        "description": "A cute and colorful floral dress for girls, perfect for sunny days or family events. Soft fabric ensures comfort all day long."
+    },
+    {
+        "id": 6,
+        "name": "Kids' Jacket",
+        "category": "Kids' Clothing",
+        "title": "Stylish winter jacket",
+        "price": 1099.99,
+        "rating": { "rate": 4.8, "count": 60 },
+        "image": "https://m.media-amazon.com/images/I/71yRKVN7OKL._AC_UY1100_.jpg",
+        "description": "This stylish winter jacket is designed to keep kids warm during the colder months. Soft and insulated, perfect for outdoor activities."
+    },
+    {
+        "id": 7,
+        "name": "Kids' Socks",
+        "category": "Kids' Clothing",
+        "title": "Colorful cotton socks",
+        "price": 199.99,
+        "rating": { "rate": 4.6, "count": 45 },
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhQIygfFjTA_3Y_DV1j1JFAY_CCtNw4E3Ug&s",
+        "description": "These cotton socks are soft, breathable, and come in a variety of colors and patterns. Ideal for pairing with any outfit."
+    },
+    {
+        "id": 8,
+        "name": "Kids' Pajamas",
+        "category": "Kids' Clothing",
+        "title": "Cute pajamas set",
+        "price": 699.99,
+        "rating": { "rate": 4.7, "count": 25 },
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzIU1Ynsp1WU63Zrq58v69w6QV3ChS601bmA&s",
+        "description": "A comfy pajamas set for a good night's sleep. Featuring fun designs that kids will love, made with soft cotton for ultimate comfort."
+    },
+    {
+        "id": 9,
+        "name": "Kids' Skirt",
+        "category": "Kids' Clothing",
+        "title": "Pleated skirt for girls",
+        "price": 499.99,
+        "rating": { "rate": 4.4, "count": 50 },
+        "image": "https://stanwellskids.in/cdn/shop/files/jeansskirt_topsbabygirlsstanwellskidscasualdressesinfant_3.jpg?v=1710233855&width=1080",
+        "description": "This pleated skirt for girls is great for casual outings or school events. Pair it with a t-shirt for a cute, comfortable outfit."
+    },
+    {
+        "id": 10,
+        "name": "Kids' lower",
+        "category": "Kids' lower",
+        "title": "Light-up lower",
+        "price": 1299.99,
+        "rating": { "rate": 4.6, "count": 40 },
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_GdsjuxgCnHzsDTIAn34OPid8VoNPn4U5Vw&s",
+        "description": "These night wear type lower"
+    },
+    {
+        "id": 11,
+        "name": "Kids' Cap",
+        "category": "Kids' Clothing",
+        "title": "Fun baseball cap",
+        "price": 399.99,
+        "rating": { "rate": 4.5, "count": 30 },
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxnoB5TBJAjFCpkPisF32aY0lHpP57ZSMog&s",
+        "description": "This fun baseball cap comes in vibrant colors and playful designs. Perfect for sunny days, providing both style and sun protection."
+    },
+    {
+        "id": 12,
+        "name": "Kids' Overalls",
+        "category": "Kids' Clothing",
+        "title": "Denim overalls for active kids",
+        "price": 899.99,
+        "rating": { "rate": 4.7, "count": 40 },
+        "image": "https://img4.dhresource.com/webp/m/0x0/f3/albu/km/g/08/0508f737-6e90-4c23-9de7-26792d95a02b.jpg",
+        "description": "These durable denim overalls are perfect for kids who love to play. The adjustable straps make it easy to find the right fit for your child."
+    }
+]

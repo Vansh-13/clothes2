@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Men's T-shirt",
+        "category": "Men's Clothing",
+        "title": "Comfortable cotton t-shirt",
+        "price": 349.99,
+        "rating": { "rate": 4.5, "count": 35 },
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR7wDwJTGl_TEIyYzSJCVTNdaFTUqZM-ZjcXKtO8uAH7Y0Usmki-FF-g7LISUTQZRWSPP59hGawxNEccO3I6Ekgo7RjFq52j6wSs81lS-g3",
+        "description": "This comfortable cotton t-shirt is designed for casual wear. Available in multiple colors and sizes for every man."
+    },
+    {
+        "id": 2,
+        "name": "Men's Jacket",
+        "category": "Men's Clothing",
+        "title": "Stylish leather jacket",
+        "price": 1999.99,
+        "rating": { "rate": 4.8, "count": 45 },
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJIbwAH6NYnwqAwaqKB_4Se1agLVZuXK6y7xP4etq-7w7zLiHtwfRVK7_p6seU5hJAKJBE__JC41qFaPi3f11LrVpKavLLc2szXDLBF77WiEFbeHGQgGThjw",
+        "description": "A sleek leather jacket with a smooth finish. Perfect for layering during the cooler months, combining fashion and function."
+    },
+    {
+        "id": 3,
+        "name": "Men's Sneakers",
+        "category": "Men's Footwear",
+        "title": "Comfortable sports sneakers",
+        "price": 2499.99,
+        "rating": { "rate": 4.7, "count": 60 },
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXU9bzLg8gU33g_NSextxsR9w5WKWL_lVWwvFob-Q46XM2DAkYx0czyM04eqQEQvF6LEzFAC_0144fkPhpntSvckRUt_sswdmI8eqdTkoE2GXehsJSk5n68w",
+        "description": "These stylish sneakers are designed for both comfort and performance. Ideal for sports and casual activities."
+    },
+    {
+        "id": 4,
+        "name": "Men's Hoodie",
+        "category": "Men's Clothing",
+        "title": "Cozy hoodie for everyday wear",
+        "price": 899.99,
+        "rating": { "rate": 4.6, "count": 50 },
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSwkwC6Lf9Blx28rkkv3zCWBJyr2clZ9DqL8vnKTPU_O4cVt1mxGobYhGC8CEvJS5BuZ2m7T4JK6M7-o1KroMG7_upLS-bVkcjkXFYe3x5z",
+        "description": "This hoodie provides both warmth and style. Perfect for casual outings and layering during colder days."
+    },
+    {
+        "id": 5,
+        "name": "Men's Jeans",
+        "category": "Men's Clothing",
+        "title": "Slim-fit denim jeans",
+        "price": 999.99,
+        "rating": { "rate": 4.3, "count": 70 },
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSb-o-GjXIgVYmgDIQOU5AlJeID_Y66SOYm7HgDrMs2DeX-xV3KJlZDYgrGk9A-b0OhS91N9uKfBaS6bwFV3gWV6Xc2mpBFxxCX4uUcmLAl",
+        "description": "These slim-fit denim jeans offer a modern and trendy look. Durable and comfortable for everyday wear."
+    },
+    {
+        "id": 6,
+        "name": "Men's Casual Shirt",
+        "category": "Men's Clothing",
+        "title": "Breathable cotton shirt",
+        "price": 749.99,
+        "rating": { "rate": 4.5, "count": 45 },
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwAzRBdXU0-bIGr7d2d9DXP1VwInodF26_Pib10DlT_ZCOI8T_HKH6BfhargFRwAn2Vfrre_R7v-794R_Y8d89bnxcEidRWOtFchLQjJmO-FyhACRP_br9",
+        "description": "This lightweight cotton shirt is perfect for casual outings. It offers comfort and breathability for all-day wear."
+    },
+    {
+        "id": 7,
+        "name": "Men's Blazer",
+        "category": "Men's Clothing",
+        "title": "Classic tailored blazer",
+        "price": 2999.99,
+        "rating": { "rate": 4.7, "count": 30 },
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSBJTZZX02ftdtRqk1z3Q6T9m_EOcN_LA6P3T0T_utJJNoyiMebnQon9ChIXjJiLXf9_r87zs5oSATUPV0V0MYtxYRDdZBsanAd0ph6xQw",
+        "description": "A classic tailored blazer perfect for formal events or dressing up casual outfits. Adds a touch of sophistication to any look."
+    },
+    {
+        "id": 8,
+        "name": "Men's Shorts",
+        "category": "Men's Clothing",
+        "title": "Comfortable summer shorts",
+        "price": 649.99,
+        "rating": { "rate": 4.4, "count": 55 },
+        "image": "https://www.jiomart.com/images/product/original/rvyvoyejh8/e1k-mens-cotton-shorts_pack-of-5_multicolor_30_m-product-images-rvyvoyejh8-0-202308021212.jpg?im=Resize=(500,630)",
+        "description": "These comfortable shorts are perfect for hot summer days. Pair them with a t-shirt or polo for a relaxed look."
+    },
+    {
+        "id": 9,
+        "name": "Men's Polo Shirt",
+        "category": "Men's Clothing",
+        "title": "Classic polo shirt",
+        "price": 1099.99,
+        "rating": { "rate": 4.6, "count": 40 },
+        "image": "https://m.media-amazon.com/images/I/61OLcPWSSBL._AC_AC_SY350_QL65_.jpg",
+        "description": "This classic polo shirt combines comfort with a smart casual look. Ideal for both office wear and casual outings."
+    },
+    {
+        "id": 10,
+        "name": "Men's Sweatpants",
+        "category": "Men's Clothing",
+        "title": "Comfortable fleece sweatpants",
+        "price": 799.99,
+        "rating": { "rate": 4.2, "count": 60 },
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfM20scBIKzKIx_d89kyHUrZYuE52uH2uHNkg7Wjmpz_5ewEAiACFG1IKq_pRwhOZLClnAKIh7rzUsUpI7SIPQmRXz60GCtgunfP-GLAPCsSUIsLiBwhk6",
+        "description": "These fleece sweatpants offer ultimate comfort for lounging or working out. Soft and cozy, they’re perfect for staying relaxed."
+    },
+    {
+        "id": 11,
+        "name": "Men's Vest",
+        "category": "Men's Clothing",
+        "title": "Cotton tank top vest",
+        "price": 499.99,
+        "rating": { "rate": 4.3, "count": 50 },
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTHCemc7SqH4JjjZLTKUZWspSbxdIjuIrbry6NzoO5U6_lRRGmY6mVFGcCu3JHrNKU0nZ1xXAzX3JJcjg_pm6JQiCfGCEtMTF1eMTiqCkEJo-7sv3dKEJivoQ",
+        "description": "This cotton vest is perfect for hot days or layering under a shirt or jacket. Soft and breathable, it’s a wardrobe essential."
+    },
+    {
+        "id": 12,
+        "name": "Men's Cardigan",
+        "category": "Men's Clothing",
+        "title": "Stylish wool cardigan",
+        "price": 1499.99,
+        "rating": { "rate": 4.6, "count": 35 },
+        "image": "https://m.media-amazon.com/images/I/61jHsjgJSqL._AC_SX466_.jpg",
+        "description": "This wool cardigan offers both warmth and style, perfect for layering over a shirt or t-shirt during cooler months."
+    }
+]

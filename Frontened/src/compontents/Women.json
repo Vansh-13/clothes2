@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Women's T-shirt",
+        "category": "Women's Clothing",
+        "title": "Comfortable cotton t-shirt",
+        "price": 299.99,
+        "rating": { "rate": 4.5, "count": 20 },
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTAArH9JWGv4jTXpOYFBiWErUEFvTCQLCswKQMP_FD5Bwu1E8kZ5mUyfieU7Mf3aHdXSTQ-J8pf1hIGeGf7ilc8orZd1ElqFZk--BXPSc",
+        "description": "This soft and breathable cotton t-shirt is perfect for daily wear, offering comfort and style in a variety of colors and sizes."
+    },
+    {
+        "id": 2,
+        "name": "Women's Jacket",
+        "category": "Women's Clothing",
+        "title": "Stylish winter jacket",
+        "price": 1499.99,
+        "rating": { "rate": 4.7, "count": 50 },
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQOkjcZBqb_mG2JH3EuDtjvD_Bxfq2KLFsaHLD-VPEVdxK8c0MJV1DXRD5kat0ZNVpcjFJwsSqOT1Two6RBOsKQ_HyAYZFRPNZOYwZNPVjZmoI-EtxHRI4H",
+        "description": "Stay warm and chic with this stylish winter jacket, designed to keep you cozy during colder months. Ideal for layering over sweaters and shirts."
+    },
+    {
+        "id": 3,
+        "name": "Women's Sneakers",
+        "category": "Women's Footwear",
+        "title": "Sporty sneakers for daily wear",
+        "price": 2499.99,
+        "rating": { "rate": 4.5, "count": 70 },
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTJnfB1OUzDLzSZb5E1aaR-wZ0cz2fzEwhQh0rzK4lfEdcro00qpVkt3cWUhmtXEdp-6HDMqst9BIJUp0EVLjzz521T3fv8ZPKkbGJw5rI",
+        "description": "These sporty sneakers are designed for both comfort and style, ideal for walking, jogging, or everyday activities. The breathable material keeps your feet cool and fresh."
+    },
+    {
+        "id": 4,
+        "name": "Women's Hoodie",
+        "category": "Women's Clothing",
+        "title": "Warm and cozy hoodie",
+        "price": 999.99,
+        "rating": { "rate": 4.8, "count": 40 },
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8Eh2PGzqaslx35dD8j2tgQzLnPv7OgngL7IWCEh-PKLzSJNrJ1-OssVG9qy3E_XWq08NLTGKLoWUPxZpM6XfQ58ClFMASIxHXCrW4vk34k87RiOEZzG1y",
+        "description": "This warm and cozy hoodie is your perfect companion for chilly days. With a soft fleece interior, it's ideal for lounging or casual outings."
+    },
+    {
+        "id": 5,
+        "name": "Women's Slim-fit Jeans",
+        "category": "Women's Clothing",
+        "title": "Slim-fit denim jeans",
+        "price": 799.99,
+        "rating": { "rate": 4.3, "count": 30 },
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRsKHy-yY2QOfWPdVIlrrboioqcZ3q5PSb081XRllNwKP-0CpaLadNsjr1qb5L3OPGvA7970aMjTFIHyGvMgm-c2VvJDN0gTFutCF4Jpww",
+        "description": "These slim-fit denim jeans combine comfort and style, perfect for a casual look or a night out. Made from high-quality denim, they fit like a glove."
+    },
+    {
+        "id": 6,
+        "name": "Women's Blazer",
+        "category": "Women's Clothing",
+        "title": "Classic fit blazer",
+        "price": 4999.99,
+        "rating": { "rate": 4.3, "count": 50 },
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5Er4ndqTmy0wEBwYB9EjpVHFOHPRcvUJfL_IveJn3Sx2ZLdESZwuTok9cYF60RUsSvrVJhWGNt318l6PkUxSdzub5w_ulu2qT349Ounqr",
+        "description": "This tailored blazer is perfect for formal occasions or adding a polished touch to your work wardrobe. Its classic cut and sleek design make it a versatile choice for any business setting."
+    },
+    {
+        "id": 7,
+        "name": "Women's Skirt",
+        "category": "Women's Clothing",
+        "title": "Flowy A-line skirt",
+        "price": 699.99,
+        "rating": { "rate": 4.5, "count": 35 },
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTU1dFUkqa6UPylp-I6LeZlUJmzDizOW6Sq5CDuSVV9M5yJJkDcBAZhxaLtkJztvuJcQ_dHKziAUTXPc-XXQcCx5Z5Xy2RNZXr5Xi-NTzdMJmk85EXQi7i",
+        "description": "This A-line skirt offers a flattering fit for all body types. Made from lightweight fabric, it’s perfect for warmer weather or layering with tights in the cooler months."
+    },
+    {
+        "id": 8,
+        "name": "Women's Cardigan",
+        "category": "Women's Clothing",
+        "title": "Soft wool cardigan",
+        "price": 1299.99,
+        "rating": { "rate": 4.7, "count": 25 },
+        "image": "https://images.meesho.com/images/products/449312730/hhnug_1200.jpg",
+        "description": "This wool cardigan is soft and versatile, ideal for layering over any outfit. Perfect for chilly days when you need a little extra warmth."
+    },
+    {
+        "id": 9,
+        "name": "Women's Leggings",
+        "category": "Women's Clothing",
+        "title": "Comfortable yoga leggings",
+        "price": 799.99,
+        "rating": { "rate": 4.6, "count": 60 },
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSF3_zhelpy3e1tN8Xt7EjfsSyKM1VdZfz4IrDatCDaX1vX0yntA1xrxbK3y_O0g-sxAeSkSdLG1n03V79P827UKqTQVE1gQjOAISXdvdqtNTgKfAfN5W5QSg",
+        "description": "These yoga leggings offer comfort and flexibility for any activity. Made from breathable material, they’re perfect for working out or lounging at home."
+    },
+    {
+        "id": 10,
+        "name": "Women's Dress",
+        "category": "Women's Clothing",
+        "title": "Elegant evening dress",
+        "price": 2499.99,
+        "rating": { "rate": 4.7, "count": 45 },
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_l5kOcdCcmd7JPmrW0rW28xqWu8HqLHjGdx6mab_1Fa43NvN4Lp2VG31jnO1WXgkFytBreGhogjNnetljWNCFEUp8ZmKCMdTizJtNPKA",
+        "description": "This elegant evening dress features a flattering silhouette and luxurious fabric, making it the perfect choice for formal events or special occasions."
+    },
+    {
+        "id": 11,
+        "name": "Women's Kurti",
+        "category": "Women's Clothing",
+        "title": "Traditional cotton kurti",
+        "price": 799.99,
+        "rating": { "rate": 4.6, "count": 50 },
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQynO93SeQ5aM_890daOL2jCi-O_tuVrOEPbceoiPSTIkBPel3m7w38qnFvtvdzwVZXJ9fSszwUGZyv8gOltwrzDxX7HzN9VeTn3a-b-zYlnw4Xi2qvrncR9g",
+        "description": "This beautiful cotton kurti is perfect for festive occasions or casual wear. Soft and comfortable, it can be paired with jeans or leggings for a traditional look."
+    },
+    {
+        "id": 12,
+        "name": "Women's Suit",
+        "category": "Women's Clothing",
+        "title": "Stylish Punjabi suit",
+        "price": 1799.99,
+        "rating": { "rate": 4.7, "count": 45 },
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRHsb0uIA_rneoxlsCdSaPqkzTD8beDk3UOoTwG6BCCJdK1hU2iOnKaSLHffxo5y8kqjJLVPsnAfjZbB5TbChH22a4xAuFsEBz1fS3iIFUkTo941aKGhutrVg",
+        "description": "This elegant Punjabi suit is perfect for weddings, festivals, or any formal event. Made from luxurious fabric, it features intricate embroidery and a flattering fit."
+    }
+]
